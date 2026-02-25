@@ -2,12 +2,37 @@
 icon: hand-wave
 ---
 
-# Welcome
+# Welcome to Valley of the Commons 2026
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+A four-week pop-up village by a nascent network society envisioning life beyond extractive systems.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+---
 
-### Jump right in
+## About This Wiki
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+This GitBook contains all the documentation for the Valley of the Commons 2026 event, including:
+
+- **Valley of the Commons** - Event overview, venue, location, and schedule
+- **Internal WIKI** - Operations, accommodation, logistics, and team information
+- **Event WIKI** - Programming, speakers, and participant information
+- **Guides** - Best practices for organizing events
+
+---
+
+## Quick Links
+
+| Section | Description |
+|---------|-------------|
+| [Overview](valley/overview.md) | Event vision and background |
+| [Schedule](valley/schedule.md) | Four-week program overview |
+| [Operations](operations/master-timeline.md) | Planning timeline and tasks |
+| [Accommodation](accommodation/room-inventory.md) | Room types and pricing |
+| [Programming](programming/weekly-overview.md) | Weekly themes and sessions |
+
+---
+
+## Event Dates
+
+**24 August 2026 - 20 September 2026**
+
+Join us in the Austrian Alps for four weeks of learning, making, and building community.
