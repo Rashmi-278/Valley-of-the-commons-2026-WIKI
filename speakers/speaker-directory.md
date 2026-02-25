@@ -1,6 +1,12 @@
+---
+description: 'Speakers CRM is managed here: https://crm.valleyofthecommons.com/'
+---
+
 # Speaker Directory
 
----
+Confirmed Speakers are listed here to be added to website
+
+***
 
 ## Key Speakers
 
@@ -12,7 +18,7 @@ Founder of the P2P Foundation and a leading thinker on commons-based peer produc
 
 Sociologist and researcher specializing in digital societies and commons. Adam brings academic rigor and practical insights into how commons emerge and sustain themselves.
 
----
+***
 
 ## Collaborators
 
@@ -36,16 +42,16 @@ Sociologist and researcher specializing in digital societies and commons. Adam b
 
 ### Veronica
 
----
+***
 
 ## Community Partners
 
-- Hubs Network
-- Invisible Garden
-- Understories
-- P2P Foundation
-- Crypto Commons Association
-- Collaborative Finance
-- Akasha Hub
-- dOrg
-- FarmLab
+* Hubs Network
+* Invisible Garden
+* Understories
+* P2P Foundation
+* Crypto Commons Association
+* Collaborative Finance
+* Akasha Hub
+* dOrg
+* FarmLab
