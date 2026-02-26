@@ -1,1 +1,8 @@
 RAW
+.claude
+node_modules
+.docusaurus
+build
+
+# Local Netlify folder
+.netlify
