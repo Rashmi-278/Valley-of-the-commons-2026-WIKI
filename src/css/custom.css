@@ -1,0 +1,40 @@
+:root {
+  --ifm-color-primary: #4a9eda;
+  --ifm-color-primary-dark: #3290d4;
+  --ifm-color-primary-darker: #2a88cc;
+  --ifm-color-primary-darkest: #2370a8;
+  --ifm-color-primary-light: #62ace0;
+  --ifm-color-primary-lighter: #6ab2e2;
+  --ifm-color-primary-lightest: #8ec4ea;
+
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #f8fbff;
+
+  --ifm-font-family-base: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+.navbar {
+  border-bottom: 1px solid #e3edf7;
+  box-shadow: none;
+}
+
+.navbar__title {
+  font-weight: 600;
+  color: #1a3a5c;
+}
+
+.menu__link--active:not(.menu__link--sublist) {
+  background-color: #eef5fc;
+  color: #2a7ab8;
+}
+
+.markdown h1:first-child {
+  font-size: 1.8rem;
+  color: #1a3a5c;
+}
+
+table {
+  display: table;
+  width: 100%;
+}
