@@ -1,9 +1,9 @@
 ---
+title: Week 2 – Cosmo-local Production & OVA
 sidebar_position: 3
-title: "Week 2 – Cosmo-local Production & OVA"
 ---
 
-# Week 2: Cosmo-local Production and OVA
+# Week 2: Cosmo-local Production and Open Value Accounting
 
 **31 August - 6 September 2026**
 
@@ -29,7 +29,7 @@ Through a mix of theory sessions and hands-on workshops, participants explore ho
 ## Learning Outcomes
 
 - Understanding of cosmo-local production models
-- Practical skills in value accounting
+- Practical skills in collaborative value accounting
 - Knowledge of relevant tools and platforms
 - Framework for building local production capacity
 
