@@ -1,6 +1,6 @@
 ---
+title: Master Timeline
 sidebar_position: 1
-title: "Master Timeline"
 ---
 
 # Master Timeline
@@ -16,7 +16,7 @@ Countdown-based operational timeline. Derived from the Pop-Up Playbook and meeti
 * [x] Draft website and deploy to Vercel
 * [x] Public announcement with QR code at CCC
 * [x] **DNS:** Point `valleyofthecommons.com` to `votc26.vercel.app`
-* [ ] Finalize ticket pricing and accommodation pricing
+* [x] Finalize ticket pricing and accommodation pricing
 * [ ] Confirm association legal structure (VoTC Association, registered in Vienna)
 * [ ] Start reaching out to potential sponsors
 * [ ] Lock in initial key community partners
