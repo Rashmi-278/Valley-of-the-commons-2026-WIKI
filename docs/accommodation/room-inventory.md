@@ -1,57 +1,80 @@
 ---
+title: Room Inventory & Pricing
 sidebar_position: 1
-title: "Room Inventory & Pricing"
 ---
-
 # Room Inventory and Pricing
 
----
+**Note:** Accommodation always runs **Sunday to Sunday** — check-in is **the day before** the program starts.
+
+- - -
 
 ## Commons Hub Accommodation
 
-### Full Resident (4 weeks: 24 Aug - 20 Sep)
+### Full Resident (up to 40 spots)
 
-| Room Type | Price (Early Bird) | Price (After 1 June) | Capacity | Notes |
-|-----------|-------------------|---------------------|----------|-------|
-| **Dorm** (4-6 people) | EUR 1,500 | EUR 1,650 | ~6 beds per room | Shared facilities |
-| **Shared Double Room** | EUR 1,800 (per person) | EUR 1,980 | 2 per room | For couples or matched roommates |
-| **Single Room / Deluxe Apartment** (Herrnhof) | EUR 3,200 | EUR 3,520 | 1 per unit | Premium option |
+| Room Type | Bed Type | Price (Early) | Price (Standard) | Price (Last Min) |
+| --- | --- | ---:| ---:| ---:|
+| **Single Room (Herrnhof)** | Double bed | EUR 2,960 | EUR 3,160 | EUR 3,260 |
+| **Couple Room (Herrnhof)** | Double bed | EUR 3,400 | EUR 3,800 | EUR 4,000 |
+| **Bed in Double Room (Herrnhof, Shared)** | Two single beds | EUR 1,980 | EUR 2,180 | EUR 2,280 |
+| **Bed in Triple Room (Herrnhof, Shared)** | One single + one double bed (separate mattresses) | EUR 1,700 | EUR 1,900 | EUR 2,000 |
+| **Bed in Living Room (Herrnhof, Shared)** | Single bed + couch bed | EUR 1,560 | EUR 1,760 | EUR 1,860 |
+| **Bed in Double Room (Commons Hub, Shared)** | Two single beds | EUR 1,700 | EUR 1,900 | EUR 2,000 |
+| **Bed in Multi-Room (Commons Hub, Shared)** | Bunk beds + single beds | EUR 1,400 | EUR 1,600 | EUR 1,700 |
 
-### Weekly Visitor (up to 10 per week)
 
-| Room Type | Price/Week (Early Bird) | Price/Week (After 1 June) |
-|-----------|------------------------|---------------------------|
-| **Dorm** (4-6 people) | EUR 425 | EUR 467.50 |
-| **Shared Double** | EUR 500 | EUR 550 |
-| **Single / Deluxe Apartment** | EUR 850 | EUR 935 |
+### Weekly Visitor (up to 20 per week)
 
----
+
+| Room Type | Bed Type | Price/Week (Early) | Price/Week (Standard) | Price/Week (Last Min) |
+| --- | --- | ---:| ---:| ---:|
+| **Single Room (Herrnhof)** | Double bed | EUR 785 | EUR 865 | EUR 905 |
+| **Couple Room (Herrnhof)** | Double bed | EUR 940 | EUR 1,100 | EUR 1,180 |
+| **Bed in Double Room (Herrnhof, Shared)** | Two single beds | EUR 540 | EUR 620 | EUR 660 |
+| **Bed in Triple Room (Herrnhof, Shared)** | One single + one double bed (separate mattresses) | EUR 470 | EUR 550 | EUR 590 |
+| **Bed in Double Room (Commons Hub, Shared)** | Two single beds | EUR 470 | EUR 550 | EUR 590 |
+| **Bed in Living Room (Herrnhof, Shared)** | Single bed + couch bed | EUR 435 | EUR 515 | EUR 555 |
+| **Bed in Multi-Room (Commons Hub, Shared)** | Bunk beds + single beds | EUR 395 | EUR 475 | EUR 515 |
+
+
+- - -
 
 ## What is Included
 
-- Accommodation for booked period
-- Event venue access
-- Event ticket (programming, workshops, talks)
-- Food **not included** (expect ~EUR 10/day)
-- Travel not included
+* Accommodation for booked period
+* Event venue access
+* Event ticket (programming, workshops, talks)
+* Food **not included** (expect ~EUR 10/day)
+* Travel not included
 
----
+- - -
 
 ## Pricing Logic
 
-- **Early-bird cutoff:** 1 June 2026
-- **10% increase** after that date
-- Accommodation contracts are **individual** between participant and Commons Hub
-- Payment terms: **30% deposit** to confirm booking, **full payment by deadline**
+* **Early Bird:** until **15 May 2026**
+* **Standard:** until **15 July 2026**
+* **Last Min:** until **event start**, subject to availability (alternative accommodation may cost more)
+* Accommodation contracts are **individual** between participant and Commons Hub
+* Payment terms: **full payment at ticket purchase**
+* Cancellation policy: **70% refund until end of Standard Ticket Phase**
 
----
+- - -
 
 ## Room Inventory Count
 
-| Room Type | Quantity | Beds | Notes |
-|-----------|----------|------|-------|
-| Dorm rooms | TBD | TBD | Hub main building |
-| Double rooms | TBD | TBD | Hub main building |
-| Herrnhof singles | TBD | TBD | Separate building |
-| Attic overflow | TBD | TBD | Usable in summer months |
-| **Total capacity** | | **~30** | |
+>
+
+| Room Type           | Quantity | Beds                         | Notes                   |
+| ------------------- | -------- | ---------------------------- | ----------------------- |
+| Dorm / multi-rooms  | 5      | 26                          | Hub main building       |
+| Double rooms        | 2      | 4                          | Hub main building       |
+| Living room spots   | 4      | 7                          | Herrnhof                |
+| Triple rooms OR double rooms        | 4      | 8 / 12                          | Herrnhof                |
+| Single rooms OR couple rooms      | 6      | 6/12                          | Herrnhof       |
+| Attic/Museum overflow for team      | 2      | 4                          | quiet, more space, but not commercially usable |
+| **Total capacity**  |          | **Full residents: up to 40** |                         |
+| **Weekly visitors** |          | **Up to 20 / week**          |                         |
+
+```
+
+```
