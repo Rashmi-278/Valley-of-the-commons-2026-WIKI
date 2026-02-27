@@ -1,30 +1,18 @@
 ---
+title: Food & Kitchen
 sidebar_position: 1
-title: "Food & Kitchen"
 ---
 
 # Food and Kitchen
 
-Food is **NOT included** in accommodation or ticket pricing. Expect ~EUR 10/day per person.
+Food is **NOT included** in accommodation or ticket pricing. Expect to chip in ~EUR 10/day per person for shared groceries
 
 ---
 
 ## Kitchen Model
 
-**Key decision needed:** How do we handle community meals?
-
-### Options
-
-| Model | Pros | Cons |
-|-------|------|------|
-| **A. Rotating kitchen teams** (enforced) | Fair distribution, community bonding | Enforcement is awkward |
-| **B. Rotating kitchen teams** (voluntary) | More flexible | Risk: nobody signs up |
-| **C. Fully self-prep** | Zero coordination needed | No community meals |
-| **D. Hybrid** - shared dinners + self-prep | Best of both worlds | Still need dinner coordination |
-| **E. Catered** - hire local | Professional, reliable | Most expensive |
-
-**Recommended:** Hybrid model - daily community dinners (self-prepped by rotating teams) + self-serve for breakfast and lunch.
-
+proposal:
+**Hybrid** - self-served breakfasts, shared light lunch (soup, rest of dinner from day before), plus shared dinners, with voluntary team.
 ---
 
 ## Kitchen Logistics
@@ -46,7 +34,7 @@ Food is **NOT included** in accommodation or ticket pricing. Expect ~EUR 10/day 
 | Meal | Time | Format | Who |
 |------|------|--------|-----|
 | **Breakfast** | 7:30 - 9:30 | Self-serve (bread, spreads, coffee, fruit) | Individual |
-| **Lunch** | 12:30 - 14:00 | Self-prep or local options | Individual |
+| **Lunch** | 12:30 - 14:00 | light & easy - soups | rotating team of 2-3 people |
 | **Dinner** | 19:00 - 20:30 | Community dinner | Rotating team of 3-4 people |
 
 ---
@@ -54,10 +42,8 @@ Food is **NOT included** in accommodation or ticket pricing. Expect ~EUR 10/day 
 ## Community Dinner Rotation
 
 - Teams of 3-4 people cook dinner for ~30-40
-- Each participant cooks approximately once per week
+- Each participant cooks approximately once per week > strong encouragement, no strict enforcement
 - Sign-up sheet managed by Kitchen Czar
-- Budget: ~EUR 5-7 per person per dinner
-
 ---
 
 ## Dietary Restrictions
@@ -77,6 +63,6 @@ Post a summary sheet in the kitchen so every cooking team knows what to accommod
 
 | Source | What | Distance |
 |--------|------|----------|
-| Nearest supermarket | General groceries | TBD |
+| Discounter Supermarket | General groceries | about 18 min drive |
 | Local Bauernmarkt | Fresh produce, local goods | TBD |
-| Bakery | Bread | TBD |
+| Bakery | Bread | 6 min drive |
