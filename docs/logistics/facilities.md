@@ -1,6 +1,6 @@
 ---
+title: Facilities & Equipment
 sidebar_position: 3
-title: "Facilities & Equipment"
 ---
 
 # Facilities and Equipment
@@ -15,32 +15,29 @@ title: "Facilities & Equipment"
 - **Workshop rooms** - Smaller spaces for breakout sessions
 - **Outdoor areas** - For activities and informal gatherings
 
+### Common Areas
+
+- **Community kitchen** - For collective cooking 
+- **Lounge areas** - the social heart of the Hub
+- **Outdoor spaces** - Gardens and terraces
+
 ### Creative Spaces
 
-- **Fablab** - Manufacturing and making equipment
+- **Fablab** - 3D printer, laser cutter, and other phygital machinery
+- **Workshop** - tools and equipment for building and making
 - **Atelier** - Creative workspace for artists and makers
+- **Soundlab** - Instruments, loopstation, and a mixer
 
 ### Wellness
 
 - **Outdoor gym** - For health and fitness activities
-
-### Accommodation
-
-- **Dorm rooms** - Shared accommodations (4-6 people)
-- **Double rooms** - Shared double rooms
-- **Single/Deluxe rooms** - Premium options at Herrnhof
-
-### Common Areas
-
-- **Community kitchen** - For meal preparation
-- **Lounge areas** - For relaxation and networking
-- **Outdoor spaces** - Gardens and terraces
+- **Garden spa area** - Wood-fired sauna & hot tub 
 
 ---
 
 ## Equipment Available
 
-- **A/V equipment** - Projectors, screens, sound systems
+- **A/V equipment** - Projectors, screens, sound systems, stage lights
 - **Wi-Fi** - High-speed internet throughout
 - **Printers** - For event materials
 - **Whiteboards** - For sessions and workshops
@@ -50,7 +47,8 @@ title: "Facilities & Equipment"
 ## What to Bring
 
 Participants should bring their own:
-- Bedding (sheets, sleeping bag)
-- Towels
 - Personal toiletries
+- swimgear
+- hiking boots
+- warm clothes (mountain climate!)
 - Any special equipment needed for specific workshops
