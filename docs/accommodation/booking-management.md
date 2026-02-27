@@ -1,11 +1,10 @@
 ---
+title: Booking Management
 sidebar_position: 2
-title: "Booking Management"
 ---
-
 # Booking Management
 
-***
+- - -
 
 ## Booking Flow (Full Residents)
 
@@ -34,7 +33,7 @@ Room confirmed - Added to occupancy tracker
 Check-in on arrival day
 ```
 
-***
+- - -
 
 ## Booking Flow (Weekly Visitors)
 
@@ -52,7 +51,7 @@ Welcome packet sent 2 weeks before their week
 Check-in on their week's start date
 ```
 
-***
+- - -
 
 ## Payment Terms
 
@@ -62,25 +61,25 @@ Check-in on their week's start date
 | **Full payment**    | Due by end of month following acceptance (or by June 1 for early-bird rate) |
 | **Late payment**    | Room is released if full payment not received by deadline                   |
 | **Refund policy**   | TBD                                                                         |
-| **Payment methods** | TBD - bank transfer, crypto?                                                |
+| **Payment methods** | bank transfer / SEPA (preferred); Mollie (almost finished); crypto (tbd)    |
 
-***
+- - -
 
 ## Booking Tools
 
 | Tool                      | Purpose                                            |
 | ------------------------- | -------------------------------------------------- |
 | **Application form**      | Collect applicant info                             |
-| **Notion database**       | Track all applications, statuses, room assignments |
-| **Email automation**      | Acceptance emails, payment reminders               |
+| **Notion database (TBD)** | Track all applications, statuses, room assignments |
+| **Email automation**      | Acceptance emails, payment reminders (TBD)         |
 | **Occupancy spreadsheet** | Room-by-room, week-by-week allocation              |
 | **Payment tracker**       | Link deposits/payments to bookings                 |
 
-***
+- - -
 
 ## Edge Cases
 
-* **Couples**: Need clarity on double room allocation
-* **Late arrivals / early departures**: Pro-rate or fixed pricing
+* **Couples**: Need clarity on double room allocation: If booked as a couple / as sharing bed, this needs explicit mention
+* **Late arrivals / early departures**: fixed pricing
 * **Room swaps mid-event**: Possible if space allows
-* **Overflow**: External accommodation options available
+* **Overflow**: External accommodation options available: F: yes, mainly Kobald - but we need to prioritize our accommodation
