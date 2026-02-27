@@ -1,9 +1,9 @@
 ---
+title: Week 3 – Future Living in Community
 sidebar_position: 4
-title: "Week 3 – Future Living"
 ---
 
-# Week 3: Future Living
+# Week 3: Future Living in Community
 
 **7 - 13 September 2026**
 
