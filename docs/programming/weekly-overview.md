@@ -16,12 +16,12 @@ Weekends remain open for exploration and connection with local initiatives.
 
 ## Week by Week
 
-| Week   | Dates               | Theme                          |
-| ------ | ------------------- | ------------------------------ |
-| Week 1 | 24-30 Aug 2026      | Return of the Commons          |
-| Week 2 | 31 Aug - 6 Sep 2026 | Cosmo-local Production and OVA |
-| Week 3 | 7-13 Sep 2026       | Future Living                  |
-| Week 4 | 14-20 Sep 2026      | Governance and Funding         |
+| Week   | Dates       | Theme                          |
+| ------ | ----------- | ------------------------------ |
+| Week 1 | 24-30 Aug   | Return of the Commons          |
+| Week 2 | 31 - 6 Sep  | Cosmo-local Production and OVA |
+| Week 3 | 7-13 Sep    | Future Living                  |
+| Week 4 | 14-20 Sep   | Governance and Funding         |
 
 - - -
 
@@ -29,9 +29,9 @@ Weekends remain open for exploration and connection with local initiatives.
 
 | Time          | Activity                                                     |
 | ------------- | ------------------------------------------------------------ |
-| 7:30 - 9:30   | Breakfast (self-serve)                                       |
+| 7:30 - 9:30   | Breakfast (self-serve) / yoga / meditation                   |
 | 9:30 - 10:00  | Morning Circle >>> still need edit, some mood-setting thing! |
-| 10:00 - 12:30 | 1-2 Morning sessions (learning paths)                        |
+| 10:00 - 12:30 | 1-2 central morning sessions (learning paths)                |
 | 12:30 - 14:00 | Light Lunch                                                  |
 | 14:00 - 18:00 | parallel afternoon sessions (workshops, field visits)        |
 | 18:00 - 19:00 | Free time / rest                                             |
@@ -53,4 +53,6 @@ Life happens in between structured programming:
 
 
 
-\>>> still gotta schedule some 45min per day for sponsors/partners - probably towards evening, calling it 'golden hour', relaxed atmosphere... only issue: usually workshops take longer than planned.
+\>>> still gotta schedule some 45min per day for sponsors/partners - probably towards evening, calling it 'golden hour', relaxed atmosphere... only issue: usually workshops take longer than planned. 
+
+how about every other day (dont have that many sponsors anyway), from 12-12:45, before lunch? that's the best hour!
