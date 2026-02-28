@@ -1,11 +1,10 @@
 ---
+title: Community Partners
 sidebar_position: 2
-title: "Community Partners"
 ---
-
 # Community Partners
 
----
+- - -
 
 ## Partner Organizations
 
@@ -31,13 +30,9 @@ Foundation dedicated to studying and promoting peer-to-peer and commons-based ap
 
 Organization exploring blockchain and cryptographic tools for commons governance.
 
-### Collaborative Finance
+### Collaborative Finance Gathering
 
 Experts in cooperative finance and community-based investment models.
-
-### Akasha Hub
-
-A decentralized social network and community space.
 
 ### dOrg
 
@@ -47,7 +42,16 @@ A decentralized autonomous organization (DAO) focused on commons-oriented develo
 
 Innovation lab focused on agricultural commons and sustainable food systems.
 
----
+### Komma.Systems
+
+Innovation lab focused on agricultural commons and sustainable food systems.
+
+
+
+F: envisioned:\
+cosmo-local Foundation; web3privacynow, [Vulca](https://vulca.eu/)
+
+- - -
 
 ## Partnership Opportunities
 
